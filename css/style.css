@@ -139,3 +139,65 @@ body{
     color: #888888;
 }
 /* services part css end */
+
+/* services 2nd part css start */
+.services2{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 462px;
+    margin-bottom: 100px;
+}
+.common_head2 h4{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 360px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.common_head2 p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #888888;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.contents_main{
+    position: relative;
+}
+.contents{
+    position: absolute;
+    top: 12px;
+    left: 135px;
+}
+.contents h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.contents p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.icon_main{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+.left{
+    margin-left: -110px;
+}
+.down{
+    margin-top: 100px;
+    margin-left: -27px;
+}
+.left2{
+    margin-left: -77px;
+}
+/* services 2nd part css end */
