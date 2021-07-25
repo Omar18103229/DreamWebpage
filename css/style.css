@@ -92,3 +92,50 @@ body{
     /* color: #388cab; */
 }
 /* header part css end */
+
+/* services part css start */
+.common_head h4{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 36px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+.common_head h4:after{
+    position: absolute;
+    content: "";
+    bottom: -30px;
+    left: 45.5%;
+    height: 2px;
+    width: 110px;
+    background-color: #0872b9;
+}
+.ser_main{
+    margin-top: 50px;
+}
+.ser_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.ser_con{
+    text-align: center;
+    padding: 35px 22px 60px;
+}
+.ser_con h4{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #222222;
+}
+.ser_con p{
+    font-size: 14px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #888888;
+}
+/* services part css end */
