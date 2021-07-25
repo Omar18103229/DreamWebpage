@@ -12,6 +12,7 @@ ul,ol{
 body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Noto Sans', sans-serif;
+    overflow-x: hidden;
 }
 /* header part css start */
 .header{
@@ -336,7 +337,7 @@ body{
 /* about part css end */
 
 /* footer part css start */
-footer{
+/* footer{
     margin-top: 20px;
     background: black;
     padding-top: 75px;
@@ -376,11 +377,11 @@ footer{
     color: #9d9fb2;
     margin-bottom: 15px;
     padding: 5px;
-}
+} */
 /* footer part css end */
 
 /* footer btm part css start */
-.footer-btm{
+/* .footer-btm{
     background: black;
     padding: 25px 0;
 }
@@ -412,5 +413,5 @@ footer{
     font-family: 'Noto Sans', sans-serif;
     font-weight: 400;
     color: #ff012b;
-}
+} */
 /* footer btm part css end */
