@@ -59,4 +59,18 @@ body{
     margin-top: 15px;
 } */
 /* bootstrap menu css end */
+
+.ban_con h1{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 19px;   
+}
+.ban_con p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400; 
+    padding-bottom: 39px;
+}
 /* header part css end */
