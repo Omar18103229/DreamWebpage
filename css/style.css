@@ -196,8 +196,22 @@ body{
 .down{
     margin-top: 100px;
     margin-left: -27px;
+    position: relative;
 }
 .left2{
     margin-left: -77px;
+}
+.button a{
+    color: black;
+    position: absolute;
+    left: 170px;
+    bottom: -160px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #ffffff;
+    border: 2px solid #dcf1f8;
+    padding: 10px;
+    border-radius: 30px;
 }
 /* services 2nd part css end */
