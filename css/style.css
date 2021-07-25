@@ -44,7 +44,7 @@ body{
     display: block;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 600;
 }
 /* bootstrap menu css start */
 /* .navbar-nav .nav-item .nav-link{
@@ -59,18 +59,36 @@ body{
     margin-top: 15px;
 } */
 /* bootstrap menu css end */
-
+.ban_con{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 140px;
+}
 .ban_con h1{
-    font-size: 40px;
-    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    padding-bottom: 19px;   
+    padding-bottom: 70px;  
 }
 .ban_con p{
-    font-size: 13px;
-    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
     font-weight: 400; 
     padding-bottom: 39px;
+}
+.content{
+    position: relative;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.ban_con hr{
+    width: 150px;
+    border: 1px solid #0ab6f5;
+    position: absolute;
+    top: 135px;
+    left: 465px;
+    /* color: #388cab; */
 }
 /* header part css end */
