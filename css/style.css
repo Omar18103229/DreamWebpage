@@ -280,5 +280,32 @@ body{
 /* portfolio images part css end */
 
 /* about part css start */
-
+.line1{
+    margin-top: 40px;
+}
+.about_img{
+    width: 150px;
+    height: 150px;
+    background-color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about_con h4{
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.about_con p{
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+}
+.line2{
+    margin-top: 50px;
+}
 /* about part css end */
