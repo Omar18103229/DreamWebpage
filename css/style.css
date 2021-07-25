@@ -331,5 +331,86 @@ body{
 }
 .line5{
     margin-top: 40px;
+    margin-bottom: 100px;
 }
 /* about part css end */
+
+/* footer part css start */
+footer{
+    margin-top: 20px;
+    background: black;
+    padding-top: 75px;
+    padding-bottom: 90px;
+}
+
+.footer{
+    text-align: center;
+}
+.footer h1{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.footer a i{
+    color: #fff;
+    padding: 0 20px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    border: 2px solid #fff;
+    transition:  0.5s;
+}
+
+.footer a i:hover{
+    color:#e84545;
+    transition:  0.5s;
+}
+.footer p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #9d9fb2;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+/* footer part css end */
+
+/* footer btm part css start */
+.footer-btm{
+    background: black;
+    padding: 25px 0;
+}
+
+.footerbtn{
+    text-align: center;
+}
+.footerbtn h1{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #9d9fb2;
+}
+
+.footerbtn span{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+.footerbtn p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #9d9fb2;
+}
+.footerbtn .heart{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #ff012b;
+}
+/* footer btm part css end */
