@@ -145,7 +145,7 @@ body{
     background-color: #f7f7f7;
     width: 100%;
     height: 462px;
-    margin-bottom: 100px;
+    /* margin-bottom: 20px; */
 }
 .common_head2 h4{
     text-align: center;
@@ -215,3 +215,60 @@ body{
     border-radius: 30px;
 }
 /* services 2nd part css end */
+
+/* portfolio part css start */
+.portfolio{
+    margin-bottom: 200px;
+}
+.common_head3 h4{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 50px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.common_head3 p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #888888;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.port2{
+    margin-left: -77px;
+}
+.contents_main2{
+    position: relative;
+}
+.contents2{
+    position: absolute;
+    top: 13px;
+    left: 136px;
+}
+.contents2 h3{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.contents2 p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    margin-left: 0;
+}
+.port3{
+    margin-top: 120px;
+    margin-left: -28px;
+}
+.port4{
+    margin-top: 120px;
+    margin-left: -28px;
+}
+.port_img img{
+    margin-top: 80px;
+}
+/* portfolio part css end */
