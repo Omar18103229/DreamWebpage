@@ -492,4 +492,26 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
+.footer_header p{
+    font-size: 14px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 40px;
+}
+.footer_content{
+    display: flex;
+    margin-bottom: 30px;
+}
+.footer_content img{
+    width: 30px;
+    height: 30px;
+}
+.footer_content p{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: white;
+    padding: 0px 20px;
+}
 /* footer part css end */
