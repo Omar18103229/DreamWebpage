@@ -33,7 +33,6 @@ body{
 .menu ul{
     display: flex;
     padding: 0px 140px;
-    /* justify-content: flex-end; */
 }
 .menu ul li {
  padding: 0px 15px;
@@ -46,6 +45,18 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight: 400;
-
 }
+/* bootstrap menu css start */
+/* .navbar-nav .nav-item .nav-link{
+    color: white;
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.navbar-nav .nav-item{
+    padding: 0px 20px;
+    margin-top: 15px;
+} */
+/* bootstrap menu css end */
 /* header part css end */
