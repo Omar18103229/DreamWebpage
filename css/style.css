@@ -514,4 +514,15 @@ body{
     color: white;
     padding: 0px 20px;
 }
+.f_button button{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.footer_last hr{
+    color: #fcfcfc;
+}
+.footer_last p{
+    text-align: center;
+    color: #fcfcfc;
+}
 /* footer part css end */
