@@ -478,3 +478,18 @@ body{
     margin-bottom: 40px;
 }
 /* team part css end */
+
+/* footer part css start */
+.footer{
+    background-color: black;
+}
+.footer_header{
+    margin-top: 40px;
+}
+.footer_header h4{
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+/* footer part css end */
