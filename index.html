@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/venobox.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -350,10 +353,32 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4 px-0">
-                    <img src="images/port_pic1.jpg" class="img-fluid w-100" alt="">
+
+                    <!-- venobox plug in with picture over picture start -->
+
+                    <a class="venobox" data-gall="gallery01" href="images/port_pic2.jpg">
+
+                        <img src="images/port_pic1.jpg" class="img-fluid w-100" alt="">
+                        
+                    
+                    </a>
+
+                    <!-- venobox plug in with picture over picture end -->
+                    
                 </div>
                 <div class="col-md-4 px-0">
-                    <img src="images/port_pic2.jpg" class="img-fluid w-100" alt="">
+
+                    <!-- venobox plug in with picture over youtube video start -->
+
+                    <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=wYR4cltyXvQ">
+                    
+                    
+                        <img src="images/port_pic2.jpg" class="img-fluid w-100" alt="">
+                    
+                    </a>
+
+                    <!-- venobox plug in with picture over youtube video end -->
+                    
                 </div>
                 <div class="col-md-4 px-0">
                     <img src="images/port_pic3.jpg" class="img-fluid w-100" alt="">
@@ -780,7 +805,10 @@
 <!-- footer part html end -->
 
     <!-- javascript link start -->
+    <script src="js/jquery-3.6.0.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/venobox.min.js"></script>
     <script src="js/custom.js"></script>
     <!-- javascript link end -->
 </body>
