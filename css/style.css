@@ -89,7 +89,7 @@ body{
     border: 1px solid #0ab6f5;
     position: absolute;
     top: 135px;
-    left: 465px;
+    left: 565px;
     /* color: #388cab; */
 }
 /* header part css end */
@@ -285,8 +285,8 @@ body{
     margin-top: 40px;
 }
 .about_img{
-    width: 150px;
-    height: 150px;
+    /* width: 150px;
+    height: 150px; */
     background-color: #f1f1f1;
     border: 1px solid #f1f1f1;
     border-radius: 50%;
